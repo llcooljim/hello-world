@@ -1,2 +1,3 @@
 # hello-world
-initial hello-world repro
+initial hello-world repo
+this is my first git hub repo
